@@ -21,5 +21,8 @@
     "dependencies": {
         "concurrently": "^9.1.2",
         "merncicddemo": "file:"
+    },
+    "devDependencies": {
+        "serve": "^14.2.4"
     }
 }
